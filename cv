@@ -1,0 +1,116 @@
+Name: Sameer Kumar Acharya
+
+Cell-No: +917470989087
+
+GitHub: https://github.com/sam0876
+
+LinkedIn: https://www.linkedin.com/in/acharyasameer
+
+Email: sam.nitrr@gmail.com / sameeracharya.nmims@gmail.com
+
+
+OBJECTIVE
+
+Augment my knowledge to obtain a responsible and challenging position with a progressive company. Where possibilities of career growth are endless and where I should be able to utilize my technical and functional capabilities to the fullest.
+
+
+SKILLS
+Skills	SQL, R, Python, SPSS, Sybase, R, Hive, Pig, Python, NumPy, Pandas, ScikitLearn, Modelling,
+Techniques	NLP, Logistic Regression, Random Forest, SVM, Decision Tree, Clustering, Naïve Bayes, LSA, Python Framework, Selenium API Testing.
+
+
+                                                                               EXPERIENCE
+Company Name	 CU Rise Analytics, Ahmedabad
+Duration	  Current Organization from July-2019 Till Date
+Role	  Modelling Consultant
+Responsibility	•	Risk Analysis of Credit Cards for GreenState Credit union
+o	Created a data dictionary and Mapped 3700 variables from Data Dictionary.
+o	Processed data warehouse for 3700 variables in 16 tables using SSDT Software.
+o	Risk Analysis for credit card customer on different Delinquency Cycles (Ongoing)
+o	ACH Transaction data analysis & Classification using TF-IDF and Word cloud.
+o	Secondary Research on feasibility of Infinite Credit Card for HNI Customers
+•	Data Creation for DU-Page Credit Union
+o	Created Data Warehouse from text files using SSDT and Microsoft SQL.
+o	Data Analysis on Credit and Debit card Transactions.
+Concepts Used	Random Forest, Decision Tree, Logistic Regression, KMean, VIF, TFIDF, Word Embedding, NLP
+
+Company Name	ICICI Prudential Life Insurance, Mumbai HO
+Duration	 6 Month Internship
+Role	Data Science Intern
+Responsibility	•	Experience Analysis & Claim Prediction for Term Products
+o	Experience Analysis of past data to identify Risky customers/Segment for term products by concatenation of contract and customer tables of BIU using SYBASE.
+o	Pivot table provides insights about the risky segment in demographic data further implemented Clustering and Random Forest to automate process  and validate the outcome.
+o	Claim Prediction for term products.
+o	Improving prediction using oversampling and SMOTE produced better accuracy in predicting future claims in term insurance using SVM and Random forest
+o	Data Normalization and customer segmentation using decision tree and kmean Clustering
+
+Concepts Used	Scrappy, Random Forest, Decision Tree, K-mode Clustering, SMOTE, Over Sampling, SVM
+
+Company Name	CITIBANK NA, Abu Dhabi, UAE
+Duration	3.3 Years
+Role	Senior Relationship Officer
+Responsibility	•	Micro Marketing & Campaigns
+o	To promote Citi products via setting up kiosk at malls and corporate offices, taking customer details and pitching products. Improving Corporate relationships and tie ups by providing need-based products. Analyzing and advising campaigns feasibility in corporate offices and hotels to higher management.
+•	Branch Banking and Sales
+o	Customer Acquisition  via  CRM  data  Base,  Customer  Segmentation,  Demographic Clustering, Sales Analysis, Products & SWOT analysis and competition mapping.
+•	Corporate Tie- Ups and Partnerships
+o	Corporate tie-ups with New Companies for salary Accounts, Cross selling Leveraging benefits using partnerships with ecommerce and retail giants, Kiosk Marketing at 5-star hotels properties, Malls, Corporate Houses to cater to customer needs analyzing kiosk feasibility based on no of daily customers and sales.
+Concepts Used	Marketing, Business Development, Negotiation, Branding, Campaign Management, Sales
+
+
+Company Name	Jaishree Construction, Raipur
+Duration	1 Year
+Role	Safety Officer
+Responsibility	•	Investigating accidents and complaint.
+•	Labor payment weekly basis and bookkeeping.
+•	Quality analysis of product used and reporting to higher management.
+•	Reporting Progress status on weekly basis.
+
+                                                                                   PROJECTS
+•	Providing loyalty discounts to customers in retail stores based on their previous purchase.
+
+Automatically identifying customers based on their previous visits through Facial Recognition (CNN, PCA) and providing discounts on their latest purchase based on their purchasing history.
+
+•	Sentiment Analysis of Alexa Reviews and real time prediction.
+
+Scrapping alexa reviews from amazon using scrapy, classifying reviews as positive and negative reviews, removing stop works, regular expression, word2vec and classifying using Naïve Bayes yielded the best accuracy.
+
+•	Big-Mart Sales Prediction.
+
+The aim is to build a predictive model (Linear Regression) in order to find out the sales of each product at a particular store. Lasso Regression is used for feature selection.
+
+•	Amazon Books Classification and Recommender system.
+
+Scrapping amazon books segment using Scrapy, classifying books according to price range and genre based on key attributes such as Author, Title, Genre, price etc. SVM model yielded the best accuracy.
+
+
+EDUCATION
+QUALIFICATION	UNIVERSITY /	SUBJECT	YEAR	GRADE
+	BORAD			
+MASTERS	NMIMS, Mumbai	Data Science	2019	3.3 (CGPA out
+		(Business Analytics)		of 4)
+MASTERS IN	ITM BUSINESS	PGDM Marketing	2013	3.5 (CGPA out
+MANAGEMENT (PGDM)	SCHOOL, Kharghar			of 5)
+BACHELOR’S	NIT, Raipur	B. Tech	2009	6.75 (CGPA out
+		Biotechnology		of 10)
+
+
+
+PUBLICATIONS
+
+A Review on Providing Loyalty Discounts to Customers in Retail Stores published in Academy of Marketing Studies Journal (ISSN: 1095-6298, Volume 22, Issue 3)
+
+
+ACHIEVEMENTS
+1.	CITIBANK Rookie Awards 2013
+2.	CITIBANK Best Performer Award for Quarter Q3- Q4 year 2015
+3.	Metlife Star Relationship Officer 2016
+4.	State Level Badminton Player under 16 year 2000-2003
+
+Place : Mumbai	Sameer Acharya
+ 
+
+
+
+
+
